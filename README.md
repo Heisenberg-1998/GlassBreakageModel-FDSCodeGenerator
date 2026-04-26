@@ -4,9 +4,6 @@ This is a automotive FDS code generate programme which can help you to generate 
 In the paper ***Integrating glass breakage models into CFD simulation to investigate realistic compartment fire behaviour*** (Chu et al., 2024), a ‘criterion-controlled’ glass breakage model was proposed as follow:
 ![image](https://github.com/user-attachments/assets/16c3099d-121c-4bbf-b0e8-1d7cce284fd1)
 
-
-![Uploading FlowChart.png…]()
-
 # How to use the Code Generator
 Before strating your own trail, please ensure the folder contain a `window.txt` file, which has following text format:
 ```txt
